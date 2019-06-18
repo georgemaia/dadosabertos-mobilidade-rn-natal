@@ -2,29 +2,17 @@
 
 **Bilhetagem Eletrônica**
 
-[Dados BE 2018 - Analítico](Bilhetagem_Eletrônica-2018-Analitico.ipynb)
-
-
+[Dados Bilhetagem Eletrônica 2018 - Analítico](Bilhetagem_Eletrônica-2018-Analitico.ipynb)
 
 **Custos Operacionais**
 
-
-
 **Itinerários**
-
-
 
 **Horários Programados**
 
-
-
 **Linhas**
 
-
-
 **Paradas**
-
-
 
 **Rotas**
 
