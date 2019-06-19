@@ -4,6 +4,8 @@
 
 [Dados Bilhetagem Eletrônica 2018 - Analítico](Bilhetagem_Eletrônica-2018-Analitico.ipynb)
 
+[Dados Bilhetagem Eletrônica 2019 - Analítico](Bilhetagem_Eletr%C3%B4nica-2019-Analitico.ipynb)
+
 **Custos Operacionais**
 
 **Itinerários**
@@ -22,7 +24,5 @@
 - Reunidas
 - Santa Maria
 - Via Sul
-
-
 
 Referências: [https://github.com/georgemaia/dadosabertos](https://github.com/georgemaia/dadosabertos)
