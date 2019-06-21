@@ -6,6 +6,8 @@
 
 [Dados Bilhetagem Eletrônica 2019 - Analítico](Bilhetagem_Eletr%C3%B4nica-2019-Analitico.ipynb)
 
+Bilhetagem Eletrônica - Analítico Geral
+
 **Custos Operacionais**
 
 **Itinerários**
